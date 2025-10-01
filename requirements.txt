@@ -1,0 +1,31 @@
+# Telegram Bot
+aiogram==3.3.0
+
+# Database
+asyncpg==0.29.0
+SQLAlchemy==2.0.25
+alembic==1.13.1
+
+# Cache
+redis==5.0.1
+aioredis==2.0.1
+
+# API
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Crypto
+web3==6.15.1
+python-binance==1.0.19
+
+# Payment
+stripe==8.3.0
+
+# Utils
+python-dotenv==1.0.1
+python-dateutil==2.8.2
+
+# Logging
+coloredlogs==15.0.1
